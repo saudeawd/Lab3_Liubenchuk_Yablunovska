@@ -1,0 +1,5 @@
+/mnt/c/Users/Admin/Downloads/lab1-cstring-8 1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Admin/Downloads/lab1-cstring-8 1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Admin/Downloads/lab1-cstring-8 1/cmake-build-debug/CMakeFiles/MainC.dir
+/mnt/c/Users/Admin/Downloads/lab1-cstring-8 1/cmake-build-debug/CMakeFiles/Main.dir
+/mnt/c/Users/Admin/Downloads/lab1-cstring-8 1/cmake-build-debug/CMakeFiles/Strings.dir

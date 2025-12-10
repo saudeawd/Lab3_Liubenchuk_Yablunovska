@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/MainC.dir/main.c.o  -o MainC  -Wl,-rpath,"/mnt/c/Users/Admin/Downloads/lab1-cstring-8 1/cmake-build-debug" libStrings.so 
